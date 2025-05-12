@@ -1,11 +1,4 @@
-Great! Here's an updated README.md including a clean folder structure and GitHub-style badges to enhance professionalism and readability:
-
-
----
-
 Internship Reports: Capture The Flag (CTF) Learning Journey
-
-  
 
 This repository documents my internship reports based on hands-on cybersecurity learning through Capture The Flag (CTF) platforms. It includes detailed walkthroughs, reflections, and technical insights gained by solving beginner to intermediate challenges.
 
